@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "scripts": {
+    "eslint": "eslint src/**/*.ts --fix"
+  },
+  "dependencies": {
+    "eslint": "^8.16.0"
+  }
+}
